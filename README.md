@@ -1,1 +1,1 @@
-# S3Diff
+# S\textsuperscript{3}Diff
