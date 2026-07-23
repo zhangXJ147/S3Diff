@@ -48,7 +48,7 @@ CUDA_VISIBLE_DEVICES=1 python sample.py --task image --image_name lsun50/42.jpg 
 #
 #do
 #
-CUDA_VISIBLE_DEVICES=6 python sample.py --task image --image_name sigd16/12.jpg --run_name train_j8 --sample_count 10
+#CUDA_VISIBLE_DEVICES=6 python sample.py --task image --image_name sigd16/12.jpg --run_name train_j8 --sample_count 10
 #
 #
 #done
