@@ -2,7 +2,7 @@
 This is the official implementation for [S<sup>3</sup>Diff: Semantic Fusion and Structure-Guided Global Generation from a Single Image with Diffusion Models](https://reference-global.com/article/10.2478/jaiscr-2026-0002).
 ## Train
     $ bash scripts/train_arbitray_image.sh
-## Evaluation
+## Test
     $ bash scripts/test.sh
 ## References
 If you find this repository helpful, please cite as:
